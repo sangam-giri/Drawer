@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//Contains the head portion for the Navigation Bar
 class NavHeader extends StatefulWidget {
   const NavHeader({Key? key}) : super(key: key);
 

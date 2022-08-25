@@ -2,6 +2,7 @@ import 'package:drawer/navbar/navheader.dart';
 import 'package:drawer/navbar/navlist.dart';
 import 'package:flutter/material.dart';
 
+//Contains the framework for the Navigation Panel
 class NavBar extends StatefulWidget {
   const NavBar({Key? key}) : super(key: key);
 

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//Contains the list view of the navigation
 class NavList extends StatefulWidget {
   const NavList({Key? key}) : super(key: key);
 
